@@ -2,7 +2,7 @@
 
 Without installing preact and preact-compat module on rc-form the build will failed and say that "react" and "create-react-class" are not found.
 
-By installing preact and preact-compat, if the project is a preact app, babel will automatically create aliases to replace react and create-react-class by preact libs.
+By installing preact and preact-compat, if the project is a preact app, it will automatically create aliases to replace "react" and "create-react-class" imports by preact libs.
 
 ## Setup
 
