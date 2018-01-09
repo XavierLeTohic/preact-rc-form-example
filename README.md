@@ -11,7 +11,7 @@ Clone rc-form and install preact & preact-compat
 ``` bash
 git clone https://github.com/react-component/form
 cd form
-npm install preact preact-compat
+npm install preact preact-compat --save
 ```
 
 Clone this repository in another directory
